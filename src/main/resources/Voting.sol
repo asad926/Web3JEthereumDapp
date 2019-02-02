@@ -1,6 +1,6 @@
 pragma solidity ^ 0.5.2;
 
-contract Voting {
+web3j.ethereum.contract Voting {
     mapping (bytes32 => uint8) public votesReceived;
 
     bytes32[] public candidateList;

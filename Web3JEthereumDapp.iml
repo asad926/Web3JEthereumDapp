@@ -119,5 +119,6 @@
     <orderEntry type="library" name="Maven: org.web3j:codegen:4.1.1" level="project" />
     <orderEntry type="library" name="Maven: com.squareup:javapoet:1.7.0" level="project" />
     <orderEntry type="library" name="Maven: info.picocli:picocli:3.0.0" level="project" />
+    <orderEntry type="library" name="scenebuilder-8.5.0-all_2" level="project" />
   </component>
 </module>

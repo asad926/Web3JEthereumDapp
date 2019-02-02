@@ -1,4 +1,4 @@
-package contract;
+package web3j.ethereum.contract;
 
 import java.math.BigInteger;
 import java.util.Arrays;
